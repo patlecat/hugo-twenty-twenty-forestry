@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://compassionate-bardeen-71af32.netlify.app/"
 title = "Twenty Twenty Hugo for Forestry"
 languageName = "En"
 languageCode = "en-us"
