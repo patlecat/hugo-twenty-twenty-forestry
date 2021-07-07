@@ -75,12 +75,12 @@ author = "Themefisher"
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "The New PatLeCat Opens its Doors"
 image = "images/2020-landscape-1-2.png"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "The premier destination for modern art in Northern Switzerland. Open from 10 AM to 6 PM every day during the summer months."
 
 # call to action
 [params.call_to_action]
